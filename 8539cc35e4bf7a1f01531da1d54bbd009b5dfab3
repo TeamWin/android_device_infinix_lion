@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "13dad9d3_fc8940d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2023-12-14T23:50:51Z",
+      "side": 1,
+      "message": "Hello, you should be able to merge your device updates now.",
+      "revId": "8539cc35e4bf7a1f01531da1d54bbd009b5dfab3",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
